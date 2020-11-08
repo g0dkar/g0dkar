@@ -1,16 +1,17 @@
-### Hi there 👋
+### Heya 👋
 
-<!--
-**g0dkar/g0dkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[EN] I'm Rafael and I'm a Software Engineer working mainly with Kotlin and Java on the Back-end!
 
-Here are some ideas to get you started:
+[PT] Eu sou Rafael e sou um Engenheiro de Software trabalhando principalmente com Kotlin e Java no Back-end! _O resto deste profile encontra-se em Inglês._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Professional Info
+
+- 👀 [LinkedIn](https://rafaelmadureiralins.com.br)
+- 🔭 I’ve been working with/in FinTechs for a while now
+- 🌱 I’m currently focusing on strengthening my knowledge of Software Architecture, mainly Microservice-related stuff
+- 🤔 I’m looking for help with Software Architecture
+- 💬 Ask me about Kotlin, Java and (almost) anything else :D
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like being part of the hiring process of the places I work at
+
+Below you can find some stuff I've been doing throughout my years :)
