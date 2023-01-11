@@ -4,9 +4,19 @@
 
 [PT-BR] Eu sou Rafael e sou um Engenheiro de Software trabalhando principalmente com Kotlin e Java no Back-end! _O resto deste profile encontra-se em Inglês._
 
+-------------------
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=g0dkar&hide=issues,contribs&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g0dkar&hide=javascript,html,css,tex&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Featured Project
+
+[![QRCode Kotlin](https://github-readme-stats.vercel.app/api/pin/?username=g0dkar&repo=qrcode-kotlin&theme=dark&hide_border=true)](https://github.com/g0dkar/qrcode-kotlin)
+
 #### Professional Info
 
-Currently working at [Glovo](https://glovoapp.com) :)
+Formerly worked at [Glovo](https://glovoapp.com), now dedicating myself to family and [open source](https://qrcodekotlin.com) :)
 
 - 👀 [LinkedIn](https://rafaelmadureiralins.com.br)
 - 🔭 I’ve been working with/in FinTechs for a while now
