@@ -8,7 +8,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=g0dkar&hide=issues,contribs&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g0dkar&hide=javascript,html,css,tex&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g0dkar&hide=javascript,html,css,tex&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Featured Project
 
