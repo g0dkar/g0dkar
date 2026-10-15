@@ -16,7 +16,7 @@
 
 #### Professional Info
 
-Currently working at [Swile](https://www.swile.co) and now-and-then dedicating time to [open source](https://qrcodekotlin.com) :)
+Currently working at [Thoughtworks](https://www.thoughtworks.com/) and now-and-then dedicating time to [open source](https://qrcodekotlin.com) :)
 
 - 👀 [LinkedIn](https://rafaelmadureiralins.com.br)
 - 🔭 I’ve been working with/in FinTechs for a while now
